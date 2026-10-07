@@ -1,7 +1,7 @@
 
 
 # Project Memory — rssokhla
-> 54 notes | Score threshold: >40
+> 59 notes | Score threshold: >40
 
 ## Safety — Never Run Destructive Commands
 
@@ -21,14 +21,12 @@
 ## Project Standards
 
 - Git Commit: update — confirmed 3x
-- Git Commit: update — confirmed 3x
-- convention in .gitignore
-- Git Commit: update — confirmed 4x
 
 ## Learned Patterns
 
 - Always: Git Commit: update — confirmed 3x (seen 2x)
 - Always: Git Commit: update — confirmed 3x (seen 3x)
+- Always: Git Commit: update — confirmed 3x (seen 4x)
 - Agent generates new migration for every change (squash related changes)
 - Agent installs packages without checking if already installed
 
